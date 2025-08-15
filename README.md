@@ -16,9 +16,9 @@ This project connects machine learning predictions directly to business ROI by:
 The dataset is a modified version of "d0r1h/customer_churn" from huggingface with added features like aggregate time series data and api usage.
 
 ## Results
-Model values
+Model Accuracy
 ```
- precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
            0       0.94      0.91      0.93      3396
            1       0.93      0.95      0.94      4003
@@ -29,3 +29,8 @@ weighted avg       0.93      0.93      0.93      7399
 
 ROC AUC: 0.9747857687417594
 ```
+<img width="727" height="359" alt="image" src="https://github.com/user-attachments/assets/90fd96af-05c3-4c43-bcdf-e61e8f78a7bd" />
+
+## ROI Interface
+<img width="727" height="861" alt="image" src="https://github.com/user-attachments/assets/df7ec5cd-8f66-44bc-8184-0f2a1b2d31d0" />
+
